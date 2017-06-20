@@ -32019,3 +32019,2754 @@ antigen
 /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh
 /Users/josephlasala/.dotfiles/antigen/antigen/antigen.zsh
 antigen
+[WRN][1497933973.0490419865] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:246
+[WRN][1497933973.0490419865] -antigen-interactive-mode: cmdarg:file:file:filecode:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1497933973.0492858887] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:455
+[TRA][1497933973.0492858887] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1497933973.0492858887] TRACE
+-antigen-env-setup
+/Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh
+/Users/josephlasala/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933973.3647739887] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933973.3647739887] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1497933973.3647739887] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/Users/josephlasala/.zshrc
+[TRA][1497933974.6855299473] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.6855299473] Called antigen-bundle with zdharma/fast-syntax-highlighting BUNDLE
+[TRA][1497933974.6855299473] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.7202019691] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.7202019691] Called antigen-bundle with peterhurford/git-it-on.zsh BUNDLE
+[TRA][1497933974.7202019691] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.7236831188] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.7236831188] Called antigen-bundle with unixorn/git-extra-commands BUNDLE
+[TRA][1497933974.7236831188] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.7309319973] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.7309319973] Called antigen-bundle with tysonwolker/iterm-tab-colors BUNDLE
+[TRA][1497933974.7309319973] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.8383169174] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.8383169174] Called antigen-bundle with raymondjcox/hub-ci-zsh-plugin BUNDLE
+[TRA][1497933974.8383169174] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.8403210640] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.8403210640] Called antigen-bundle with supercrabtree/k BUNDLE
+[TRA][1497933974.8403210640] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.8550479412] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.8550479412] Called antigen-bundle with gko/listbox BUNDLE
+[TRA][1497933974.8550479412] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.8584940434] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.8584940434] Called antigen-bundle with david-treblig/locate-sublime-projects-cli BUNDLE
+[TRA][1497933974.8584940434] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.8616371155] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.8616371155] Called antigen-bundle with molovo/lumberjack BUNDLE
+[TRA][1497933974.8616371155] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.8628280163] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.8628280163] Called antigen-bundle with molovo/revolver BUNDLE
+[TRA][1497933974.8628280163] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.8640620708] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.8640620708] Called antigen-bundle with zlsun/solarized-man BUNDLE
+[TRA][1497933974.8640620708] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.8657801151] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.8657801151] Called antigen-bundle with gko/ssh-connect BUNDLE
+[TRA][1497933974.8657801151] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.8733639717] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.8733639717] Called antigen-bundle with aphelionz/strerror.plugin.zsh BUNDLE
+[TRA][1497933974.8733639717] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.8754038811] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.8754038811] Called antigen-bundle with chrissicool/zsh-256color BUNDLE
+[TRA][1497933974.8754038811] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.8777940273] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.8777940273] Called antigen-bundle with unixorn/tumult.plugin.zsh BUNDLE
+[TRA][1497933974.8777940273] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.9349260330] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.9349260330] Called antigen-bundle with peterhurford/up.zsh BUNDLE
+[TRA][1497933974.9349260330] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.9366190434] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.9366190434] Called antigen-bundle with caarlos0/zsh-open-pr BUNDLE
+[TRA][1497933974.9366190434] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933974.9387350082] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933974.9387350082] Called antigen-bundle with Tarrasch/zsh-functional BUNDLE
+[TRA][1497933974.9387350082] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[LOG][1497933974.9555270672] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:786
+[LOG][1497933974.9555270672] Called antigen-apply
+[TRA][1497933974.9557180405] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:790
+[TRA][1497933974.9557180405] Gonna create compdump file @ apply COMPDUMP
+[TRA][1497933974.9557180405] TRACE
+antigen-apply
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497933975.3642420769] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:246
+[WRN][1497933975.3642420769] -antigen-interactive-mode: cmdarg:file:file:filecode:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1497933975.3643929958] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:455
+[TRA][1497933975.3643929958] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1497933975.3643929958] TRACE
+-antigen-env-setup
+/Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh
+/Users/josephlasala/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933975.7621541023] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933975.7621541023] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1497933975.7621541023] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6017930508] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6017930508] Called antigen-bundle with zdharma/fast-syntax-highlighting BUNDLE
+[TRA][1497933976.6017930508] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6025190353] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6025190353] Called antigen-bundle with peterhurford/git-it-on.zsh BUNDLE
+[TRA][1497933976.6025190353] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6040759087] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6040759087] Called antigen-bundle with unixorn/git-extra-commands BUNDLE
+[TRA][1497933976.6040759087] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6046619415] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6046619415] Called antigen-bundle with tysonwolker/iterm-tab-colors BUNDLE
+[TRA][1497933976.6046619415] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6052639484] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6052639484] Called antigen-bundle with raymondjcox/hub-ci-zsh-plugin BUNDLE
+[TRA][1497933976.6052639484] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6060090065] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6060090065] Called antigen-bundle with supercrabtree/k BUNDLE
+[TRA][1497933976.6060090065] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6067550182] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6067550182] Called antigen-bundle with gko/listbox BUNDLE
+[TRA][1497933976.6067550182] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6075909138] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6075909138] Called antigen-bundle with david-treblig/locate-sublime-projects-cli BUNDLE
+[TRA][1497933976.6075909138] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6088829041] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6088829041] Called antigen-bundle with molovo/lumberjack BUNDLE
+[TRA][1497933976.6088829041] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6100459099] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6100459099] Called antigen-bundle with molovo/revolver BUNDLE
+[TRA][1497933976.6100459099] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6106569767] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6106569767] Called antigen-bundle with zlsun/solarized-man BUNDLE
+[TRA][1497933976.6106569767] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6112339497] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6112339497] Called antigen-bundle with gko/ssh-connect BUNDLE
+[TRA][1497933976.6112339497] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6120409966] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6120409966] Called antigen-bundle with aphelionz/strerror.plugin.zsh BUNDLE
+[TRA][1497933976.6120409966] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6126680374] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6126680374] Called antigen-bundle with chrissicool/zsh-256color BUNDLE
+[TRA][1497933976.6126680374] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6134769917] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6134769917] Called antigen-bundle with unixorn/tumult.plugin.zsh BUNDLE
+[TRA][1497933976.6134769917] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6140589714] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6140589714] Called antigen-bundle with peterhurford/up.zsh BUNDLE
+[TRA][1497933976.6140589714] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6146249771] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6146249771] Called antigen-bundle with caarlos0/zsh-open-pr BUNDLE
+[TRA][1497933976.6146249771] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497933976.6155359745] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497933976.6155359745] Called antigen-bundle with Tarrasch/zsh-functional BUNDLE
+[TRA][1497933976.6155359745] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[LOG][1497933976.6280400753] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:786
+[LOG][1497933976.6280400753] Called antigen-apply
+[TRA][1497933976.6281979084] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:790
+[TRA][1497933976.6281979084] Gonna create compdump file @ apply COMPDUMP
+[TRA][1497933976.6281979084] TRACE
+antigen-apply
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934001.1622970104] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:246
+[WRN][1497934001.1622970104] -antigen-interactive-mode: cmdarg:file:file:filecode:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1497934001.1624929905] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:455
+[TRA][1497934001.1624929905] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1497934001.1624929905] TRACE
+-antigen-env-setup
+/Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh
+/Users/josephlasala/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934001.4531118870] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934001.4531118870] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1497934001.4531118870] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/Users/josephlasala/.zshrc
+[TRA][1497934002.6548979282] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.6548979282] Called antigen-bundle with zdharma/fast-syntax-highlighting BUNDLE
+[TRA][1497934002.6548979282] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.6828980446] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.6828980446] Called antigen-bundle with peterhurford/git-it-on.zsh BUNDLE
+[TRA][1497934002.6828980446] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.6860599518] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.6860599518] Called antigen-bundle with unixorn/git-extra-commands BUNDLE
+[TRA][1497934002.6860599518] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.6923310757] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.6923310757] Called antigen-bundle with tysonwolker/iterm-tab-colors BUNDLE
+[TRA][1497934002.6923310757] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.7862989902] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.7862989902] Called antigen-bundle with raymondjcox/hub-ci-zsh-plugin BUNDLE
+[TRA][1497934002.7862989902] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.7878520489] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.7878520489] Called antigen-bundle with supercrabtree/k BUNDLE
+[TRA][1497934002.7878520489] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.7997739315] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.7997739315] Called antigen-bundle with gko/listbox BUNDLE
+[TRA][1497934002.7997739315] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.8024439812] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.8024439812] Called antigen-bundle with david-treblig/locate-sublime-projects-cli BUNDLE
+[TRA][1497934002.8024439812] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.8050990105] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.8050990105] Called antigen-bundle with molovo/lumberjack BUNDLE
+[TRA][1497934002.8050990105] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.8061010838] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.8061010838] Called antigen-bundle with molovo/revolver BUNDLE
+[TRA][1497934002.8061010838] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.8070700169] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.8070700169] Called antigen-bundle with zlsun/solarized-man BUNDLE
+[TRA][1497934002.8070700169] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.8090269566] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.8090269566] Called antigen-bundle with gko/ssh-connect BUNDLE
+[TRA][1497934002.8090269566] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.8150899410] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.8150899410] Called antigen-bundle with aphelionz/strerror.plugin.zsh BUNDLE
+[TRA][1497934002.8150899410] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.8163409233] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.8163409233] Called antigen-bundle with chrissicool/zsh-256color BUNDLE
+[TRA][1497934002.8163409233] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.8181030750] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.8181030750] Called antigen-bundle with unixorn/tumult.plugin.zsh BUNDLE
+[TRA][1497934002.8181030750] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.8741469383] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.8741469383] Called antigen-bundle with peterhurford/up.zsh BUNDLE
+[TRA][1497934002.8741469383] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.8758039474] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.8758039474] Called antigen-bundle with caarlos0/zsh-open-pr BUNDLE
+[TRA][1497934002.8758039474] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934002.8779940605] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934002.8779940605] Called antigen-bundle with Tarrasch/zsh-functional BUNDLE
+[TRA][1497934002.8779940605] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[LOG][1497934002.8939969540] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:786
+[LOG][1497934002.8939969540] Called antigen-apply
+[TRA][1497934002.8941249847] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:790
+[TRA][1497934002.8941249847] Gonna create compdump file @ apply COMPDUMP
+[TRA][1497934002.8941249847] TRACE
+antigen-apply
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934003.2853209972] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:246
+[WRN][1497934003.2853209972] -antigen-interactive-mode: cmdarg:file:file:filecode:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1497934003.2854640484] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:455
+[TRA][1497934003.2854640484] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1497934003.2854640484] TRACE
+-antigen-env-setup
+/Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh
+/Users/josephlasala/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934003.6602249146] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934003.6602249146] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1497934003.6602249146] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5298728943] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5298728943] Called antigen-bundle with zdharma/fast-syntax-highlighting BUNDLE
+[TRA][1497934004.5298728943] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5306611061] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5306611061] Called antigen-bundle with peterhurford/git-it-on.zsh BUNDLE
+[TRA][1497934004.5306611061] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5322880745] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5322880745] Called antigen-bundle with unixorn/git-extra-commands BUNDLE
+[TRA][1497934004.5322880745] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5329780579] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5329780579] Called antigen-bundle with tysonwolker/iterm-tab-colors BUNDLE
+[TRA][1497934004.5329780579] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5337660313] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5337660313] Called antigen-bundle with raymondjcox/hub-ci-zsh-plugin BUNDLE
+[TRA][1497934004.5337660313] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5345098972] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5345098972] Called antigen-bundle with supercrabtree/k BUNDLE
+[TRA][1497934004.5345098972] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5351541042] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5351541042] Called antigen-bundle with gko/listbox BUNDLE
+[TRA][1497934004.5351541042] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5358650684] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5358650684] Called antigen-bundle with david-treblig/locate-sublime-projects-cli BUNDLE
+[TRA][1497934004.5358650684] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5365130901] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5365130901] Called antigen-bundle with molovo/lumberjack BUNDLE
+[TRA][1497934004.5365130901] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5372970104] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5372970104] Called antigen-bundle with molovo/revolver BUNDLE
+[TRA][1497934004.5372970104] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5379350185] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5379350185] Called antigen-bundle with zlsun/solarized-man BUNDLE
+[TRA][1497934004.5379350185] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5385069847] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5385069847] Called antigen-bundle with gko/ssh-connect BUNDLE
+[TRA][1497934004.5385069847] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5392150879] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5392150879] Called antigen-bundle with aphelionz/strerror.plugin.zsh BUNDLE
+[TRA][1497934004.5392150879] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5397889614] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5397889614] Called antigen-bundle with chrissicool/zsh-256color BUNDLE
+[TRA][1497934004.5397889614] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5404739380] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5404739380] Called antigen-bundle with unixorn/tumult.plugin.zsh BUNDLE
+[TRA][1497934004.5404739380] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5410420895] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5410420895] Called antigen-bundle with peterhurford/up.zsh BUNDLE
+[TRA][1497934004.5410420895] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5416080952] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5416080952] Called antigen-bundle with caarlos0/zsh-open-pr BUNDLE
+[TRA][1497934004.5416080952] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934004.5421779156] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934004.5421779156] Called antigen-bundle with Tarrasch/zsh-functional BUNDLE
+[TRA][1497934004.5421779156] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[LOG][1497934004.5538539886] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:786
+[LOG][1497934004.5538539886] Called antigen-apply
+[TRA][1497934004.5540990829] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:790
+[TRA][1497934004.5540990829] Gonna create compdump file @ apply COMPDUMP
+[TRA][1497934004.5540990829] TRACE
+antigen-apply
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934007.1134660244] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:246
+[WRN][1497934007.1134660244] -antigen-interactive-mode: toplevel:file:file:filecode:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1497934007.1136329174] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:455
+[TRA][1497934007.1136329174] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1497934007.1136329174] TRACE
+-antigen-env-setup
+/Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh
+/Users/josephlasala/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934007.6561889648] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934007.6561889648] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1497934007.6561889648] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/Users/josephlasala/.zshrc
+[TRA][1497934008.8943140507] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.8943140507] Called antigen-bundle with zdharma/fast-syntax-highlighting BUNDLE
+[TRA][1497934008.8943140507] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.8955659866] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.8955659866] Called antigen-bundle with peterhurford/git-it-on.zsh BUNDLE
+[TRA][1497934008.8955659866] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.8967869282] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.8967869282] Called antigen-bundle with unixorn/git-extra-commands BUNDLE
+[TRA][1497934008.8967869282] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.8977100849] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.8977100849] Called antigen-bundle with tysonwolker/iterm-tab-colors BUNDLE
+[TRA][1497934008.8977100849] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.8987810612] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.8987810612] Called antigen-bundle with raymondjcox/hub-ci-zsh-plugin BUNDLE
+[TRA][1497934008.8987810612] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.8997011185] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.8997011185] Called antigen-bundle with supercrabtree/k BUNDLE
+[TRA][1497934008.8997011185] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9005959034] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9005959034] Called antigen-bundle with gko/listbox BUNDLE
+[TRA][1497934008.9005959034] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9016458988] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9016458988] Called antigen-bundle with david-treblig/locate-sublime-projects-cli BUNDLE
+[TRA][1497934008.9016458988] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9029679298] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9029679298] Called antigen-bundle with molovo/lumberjack BUNDLE
+[TRA][1497934008.9029679298] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9038999081] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9038999081] Called antigen-bundle with molovo/revolver BUNDLE
+[TRA][1497934008.9038999081] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9048440456] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9048440456] Called antigen-bundle with zlsun/solarized-man BUNDLE
+[TRA][1497934008.9048440456] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9057199955] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9057199955] Called antigen-bundle with gko/ssh-connect BUNDLE
+[TRA][1497934008.9057199955] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9066090584] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9066090584] Called antigen-bundle with aphelionz/strerror.plugin.zsh BUNDLE
+[TRA][1497934008.9066090584] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9074599743] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9074599743] Called antigen-bundle with chrissicool/zsh-256color BUNDLE
+[TRA][1497934008.9074599743] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9084720612] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9084720612] Called antigen-bundle with unixorn/tumult.plugin.zsh BUNDLE
+[TRA][1497934008.9084720612] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9093708992] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9093708992] Called antigen-bundle with peterhurford/up.zsh BUNDLE
+[TRA][1497934008.9093708992] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9102599621] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9102599621] Called antigen-bundle with caarlos0/zsh-open-pr BUNDLE
+[TRA][1497934008.9102599621] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[TRA][1497934008.9111540318] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:809
+[TRA][1497934008.9111540318] Called antigen-bundle with Tarrasch/zsh-functional BUNDLE
+[TRA][1497934008.9111540318] TRACE
+antigen-bundle
+antigen
+/Users/josephlasala/.sources/zsh/antigen.zsh
+/Users/josephlasala/.zshrc
+[LOG][1497934008.9340760708] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:786
+[LOG][1497934008.9340760708] Called antigen-apply
+[TRA][1497934008.9342861176] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:790
+[TRA][1497934008.9342861176] Gonna create compdump file @ apply COMPDUMP
+[TRA][1497934008.9342861176] TRACE
+antigen-apply
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934815.3454129696] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:246
+[WRN][1497934815.3454129696] -antigen-interactive-mode: file:file:filecode:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1497934815.3460309505] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1575
+[WRN][1497934815.3460309505] -antigen-lock-init return code was 0
+[LOG][1497934815.3461298943] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1577
+[LOG][1497934815.3461298943] LOADED EXTENSION lock EXT
+[WRN][1497934815.3488121033] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1677
+[WRN][1497934815.3488121033] Init parallel extension PARALLEL
+[WRN][1497934815.3489429951] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:246
+[WRN][1497934815.3489429951] -antigen-interactive-mode: file:file:filecode:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1497934815.3491959572] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1575
+[WRN][1497934815.3491959572] -antigen-parallel-init return code was 0
+[LOG][1497934815.3492789268] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1577
+[LOG][1497934815.3492789268] LOADED EXTENSION parallel EXT
+[WRN][1497934815.3495199680] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1685
+[WRN][1497934815.3495199680] Exec parallel extension PARALLEL
+[WRN][1497934815.3498370647] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:246
+[WRN][1497934815.3498370647] -antigen-interactive-mode: file:file:filecode:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1497934815.3499341011] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1575
+[WRN][1497934815.3499341011] -antigen-defer-init return code was 0
+[LOG][1497934815.3501238823] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1577
+[LOG][1497934815.3501238823] LOADED EXTENSION defer EXT
+[WRN][1497934815.3515279293] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:246
+[WRN][1497934815.3515279293] -antigen-interactive-mode: file:file:filecode:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1497934815.3517661095] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1575
+[WRN][1497934815.3517661095] -antigen-cache-init return code was 0
+[LOG][1497934815.3518419266] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1577
+[LOG][1497934815.3518419266] LOADED EXTENSION cache EXT
+[WRN][1497934815.3544230461] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934815.3544230461] Updated meta: target antigen mode once type pre called 1
+[WRN][1497934815.3545420170] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934815.3545420170] Processing hooks: antigen-lock
+[WRN][1497934815.3547608852] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934815.3547608852] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1497934815.3548500538] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:4
+[LOG][1497934815.3548500538] antigen-lock called
+[WRN][1497934815.3549530506] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:15
+[WRN][1497934815.3549530506] Creating antigen-lock file at /Users/josephlasala/.antigen/.lock
+[WRN][1497934815.3599109650] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934815.3599109650] -antigen-hook-antigen use oh-my-zsh
+[WRN][1497934815.3633730412] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934815.3633730412] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1497934815.3635330200] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934815.3635330200] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1497934815.3637409210] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934815.3637409210] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934815.3638310432] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934815.3638310432] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1497934815.3640789986] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934815.3640789986] Replace hook: antigen-bundle-defer --loc=lib
+[WRN][1497934815.3642010689] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934815.3642010689] antigen-bundle-defer shortcircuited
+[WRN][1497934815.3642768860] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934815.3642768860] Replaced hooked function.
+[LOG][1497934815.3643770218] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934815.3643770218] Return from hook antigen-bundle with 0
+[LOG][1497934815.3645250797] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934815.3645250797] Return from hook antigen with 0
+[WRN][1497934816.8317890167] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8317890167] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8319571018] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8319571018] Processing hooks: antigen-lock
+[WRN][1497934816.8321919441] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8321919441] -antigen-hook-antigen bundle zdharma/fast-syntax-highlighting
+[WRN][1497934816.8325300217] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8325300217] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1497934816.8326900005] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8326900005] Updated meta: target antigen-bundle mode repeat type pre called 2
+[WRN][1497934816.8328449726] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8328449726] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8329710960] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8329710960] Pre hook: antigen-bundle-cached zdharma/fast-syntax-highlighting
+[WRN][1497934816.8332409859] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8332409859] Replace hook: antigen-bundle-defer zdharma/fast-syntax-highlighting
+[WRN][1497934816.8333880901] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8333880901] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8335740566] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8335740566] Replaced hooked function.
+[LOG][1497934816.8337368965] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8337368965] Return from hook antigen-bundle with 0
+[LOG][1497934816.8339850903] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8339850903] Return from hook antigen with 0
+[WRN][1497934816.8343799114] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8343799114] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8344640732] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8344640732] Processing hooks: antigen-lock
+[WRN][1497934816.8347420692] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8347420692] -antigen-hook-antigen bundle peterhurford/git-it-on.zsh
+[WRN][1497934816.8349730968] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8349730968] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1497934816.8351099491] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8351099491] Updated meta: target antigen-bundle mode repeat type pre called 3
+[WRN][1497934816.8352000713] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8352000713] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8352758884] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8352758884] Pre hook: antigen-bundle-cached peterhurford/git-it-on.zsh
+[WRN][1497934816.8353929520] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8353929520] Replace hook: antigen-bundle-defer peterhurford/git-it-on.zsh
+[WRN][1497934816.8354899883] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8354899883] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8355820179] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8355820179] Replaced hooked function.
+[LOG][1497934816.8356568813] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8356568813] Return from hook antigen-bundle with 0
+[LOG][1497934816.8357720375] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8357720375] Return from hook antigen with 0
+[WRN][1497934816.8360528946] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8360528946] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8361299038] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8361299038] Processing hooks: antigen-lock
+[WRN][1497934816.8363358974] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8363358974] -antigen-hook-antigen bundle unixorn/git-extra-commands
+[WRN][1497934816.8365890980] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8365890980] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1497934816.8367528915] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8367528915] Updated meta: target antigen-bundle mode repeat type pre called 4
+[WRN][1497934816.8368959427] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8368959427] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8370149136] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8370149136] Pre hook: antigen-bundle-cached unixorn/git-extra-commands
+[WRN][1497934816.8372089863] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8372089863] Replace hook: antigen-bundle-defer unixorn/git-extra-commands
+[WRN][1497934816.8373560905] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8373560905] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8374669552] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8374669552] Replaced hooked function.
+[LOG][1497934816.8375709057] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8375709057] Return from hook antigen-bundle with 0
+[LOG][1497934816.8377199173] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8377199173] Return from hook antigen with 0
+[WRN][1497934816.8380250931] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8380250931] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8381259441] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8381259441] Processing hooks: antigen-lock
+[WRN][1497934816.8383519650] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8383519650] -antigen-hook-antigen bundle tysonwolker/iterm-tab-colors
+[WRN][1497934816.8386061192] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8386061192] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1497934816.8387649059] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8387649059] Updated meta: target antigen-bundle mode repeat type pre called 5
+[WRN][1497934816.8388800621] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8388800621] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8391549587] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8391549587] Pre hook: antigen-bundle-cached tysonwolker/iterm-tab-colors
+[WRN][1497934816.8394711018] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8394711018] Replace hook: antigen-bundle-defer tysonwolker/iterm-tab-colors
+[WRN][1497934816.8396890163] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8396890163] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8399329185] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8399329185] Replaced hooked function.
+[LOG][1497934816.8402171135] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8402171135] Return from hook antigen-bundle with 0
+[LOG][1497934816.8405311108] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8405311108] Return from hook antigen with 0
+[WRN][1497934816.8410909176] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8410909176] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8411810398] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8411810398] Processing hooks: antigen-lock
+[WRN][1497934816.8415119648] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8415119648] -antigen-hook-antigen bundle raymondjcox/hub-ci-zsh-plugin
+[WRN][1497934816.8418960571] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8418960571] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1497934816.8420710564] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8420710564] Updated meta: target antigen-bundle mode repeat type pre called 6
+[WRN][1497934816.8422589302] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8422589302] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8423659801] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8423659801] Pre hook: antigen-bundle-cached raymondjcox/hub-ci-zsh-plugin
+[WRN][1497934816.8425068855] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8425068855] Replace hook: antigen-bundle-defer raymondjcox/hub-ci-zsh-plugin
+[WRN][1497934816.8426189423] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8426189423] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8428680897] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8428680897] Replaced hooked function.
+[LOG][1497934816.8431301117] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8431301117] Return from hook antigen-bundle with 0
+[LOG][1497934816.8434491158] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8434491158] Return from hook antigen with 0
+[WRN][1497934816.8438379765] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8438379765] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8439900875] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8439900875] Processing hooks: antigen-lock
+[WRN][1497934816.8443000317] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8443000317] -antigen-hook-antigen bundle supercrabtree/k
+[WRN][1497934816.8445880413] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8445880413] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1497934816.8447659016] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8447659016] Updated meta: target antigen-bundle mode repeat type pre called 7
+[WRN][1497934816.8449010849] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8449010849] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8449969292] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8449969292] Pre hook: antigen-bundle-cached supercrabtree/k
+[WRN][1497934816.8451249599] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8451249599] Replace hook: antigen-bundle-defer supercrabtree/k
+[WRN][1497934816.8452439308] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8452439308] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8453240395] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8453240395] Replaced hooked function.
+[LOG][1497934816.8454010487] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8454010487] Return from hook antigen-bundle with 0
+[LOG][1497934816.8455200195] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8455200195] Return from hook antigen with 0
+[WRN][1497934816.8458120823] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8458120823] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8458850384] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8458850384] Processing hooks: antigen-lock
+[WRN][1497934816.8461120129] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8461120129] -antigen-hook-antigen bundle gko/listbox
+[WRN][1497934816.8464601040] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8464601040] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1497934816.8465960026] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8465960026] Updated meta: target antigen-bundle mode repeat type pre called 8
+[WRN][1497934816.8467299938] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8467299938] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8468101025] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8468101025] Pre hook: antigen-bundle-cached gko/listbox
+[WRN][1497934816.8470709324] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8470709324] Replace hook: antigen-bundle-defer gko/listbox
+[WRN][1497934816.8471651077] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8471651077] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8472371101] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8472371101] Replaced hooked function.
+[LOG][1497934816.8473200798] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8473200798] Return from hook antigen-bundle with 0
+[LOG][1497934816.8474450111] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8474450111] Return from hook antigen with 0
+[WRN][1497934816.8478629589] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8478629589] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8479359150] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8479359150] Processing hooks: antigen-lock
+[WRN][1497934816.8481600285] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8481600285] -antigen-hook-antigen bundle david-treblig/locate-sublime-projects-cli
+[WRN][1497934816.8483579159] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8483579159] Updated meta: target antigen-bundle mode repeat type replace called 9
+[WRN][1497934816.8484759331] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8484759331] Updated meta: target antigen-bundle mode repeat type pre called 9
+[WRN][1497934816.8485910892] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8485910892] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8486599922] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8486599922] Pre hook: antigen-bundle-cached david-treblig/locate-sublime-projects-cli
+[WRN][1497934816.8487689495] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8487689495] Replace hook: antigen-bundle-defer david-treblig/locate-sublime-projects-cli
+[WRN][1497934816.8488740921] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8488740921] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8489460945] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8489460945] Replaced hooked function.
+[LOG][1497934816.8490159512] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8490159512] Return from hook antigen-bundle with 0
+[LOG][1497934816.8491230011] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8491230011] Return from hook antigen with 0
+[WRN][1497934816.8494219780] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8494219780] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8494930267] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8494930267] Processing hooks: antigen-lock
+[WRN][1497934816.8496840000] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8496840000] -antigen-hook-antigen bundle molovo/lumberjack
+[WRN][1497934816.8498570919] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8498570919] Updated meta: target antigen-bundle mode repeat type replace called 10
+[WRN][1497934816.8499729633] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8499729633] Updated meta: target antigen-bundle mode repeat type pre called 10
+[WRN][1497934816.8500859737] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8500859737] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8501551151] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8501551151] Pre hook: antigen-bundle-cached molovo/lumberjack
+[WRN][1497934816.8502619267] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8502619267] Replace hook: antigen-bundle-defer molovo/lumberjack
+[WRN][1497934816.8503530025] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8503530025] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8504230976] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8504230976] Replaced hooked function.
+[LOG][1497934816.8504910469] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8504910469] Return from hook antigen-bundle with 0
+[LOG][1497934816.8505980968] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8505980968] Return from hook antigen with 0
+[WRN][1497934816.8508760929] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8508760929] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8509469032] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8509469032] Processing hooks: antigen-lock
+[WRN][1497934816.8511350155] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8511350155] -antigen-hook-antigen bundle molovo/revolver
+[WRN][1497934816.8513429165] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8513429165] Updated meta: target antigen-bundle mode repeat type replace called 11
+[WRN][1497934816.8514699936] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8514699936] Updated meta: target antigen-bundle mode repeat type pre called 11
+[WRN][1497934816.8516039848] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8516039848] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8516900539] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8516900539] Pre hook: antigen-bundle-cached molovo/revolver
+[WRN][1497934816.8519771099] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8519771099] Replace hook: antigen-bundle-defer molovo/revolver
+[WRN][1497934816.8522129059] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8522129059] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8523459435] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8523459435] Replaced hooked function.
+[LOG][1497934816.8524179459] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8524179459] Return from hook antigen-bundle with 0
+[LOG][1497934816.8525750637] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8525750637] Return from hook antigen with 0
+[WRN][1497934816.8528449535] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8528449535] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8529229164] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8529229164] Processing hooks: antigen-lock
+[WRN][1497934816.8530941010] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8530941010] -antigen-hook-antigen bundle zlsun/solarized-man
+[WRN][1497934816.8532800674] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8532800674] Updated meta: target antigen-bundle mode repeat type replace called 12
+[WRN][1497934816.8533968925] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8533968925] Updated meta: target antigen-bundle mode repeat type pre called 12
+[WRN][1497934816.8535199165] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8535199165] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8535919189] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8535919189] Pre hook: antigen-bundle-cached zlsun/solarized-man
+[WRN][1497934816.8536999226] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8536999226] Replace hook: antigen-bundle-defer zlsun/solarized-man
+[WRN][1497934816.8537900448] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8537900448] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8538579941] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8538579941] Replaced hooked function.
+[LOG][1497934816.8539249897] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8539249897] Return from hook antigen-bundle with 0
+[LOG][1497934816.8540298939] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8540298939] Return from hook antigen with 0
+[WRN][1497934816.8542640209] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8542640209] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8543329239] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8543329239] Processing hooks: antigen-lock
+[WRN][1497934816.8544979095] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8544979095] -antigen-hook-antigen bundle gko/ssh-connect
+[WRN][1497934816.8546779156] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8546779156] Updated meta: target antigen-bundle mode repeat type replace called 13
+[WRN][1497934816.8548860550] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8548860550] Updated meta: target antigen-bundle mode repeat type pre called 13
+[WRN][1497934816.8549671173] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8549671173] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8550369740] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8550369740] Pre hook: antigen-bundle-cached gko/ssh-connect
+[WRN][1497934816.8551440239] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8551440239] Replace hook: antigen-bundle-defer gko/ssh-connect
+[WRN][1497934816.8552460670] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8552460670] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8553171158] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8553171158] Replaced hooked function.
+[LOG][1497934816.8553860188] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8553860188] Return from hook antigen-bundle with 0
+[LOG][1497934816.8554909229] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8554909229] Return from hook antigen with 0
+[WRN][1497934816.8557569981] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8557569981] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8558270931] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8558270931] Processing hooks: antigen-lock
+[WRN][1497934816.8560280800] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8560280800] -antigen-hook-antigen bundle aphelionz/strerror.plugin.zsh
+[WRN][1497934816.8561959267] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8561959267] Updated meta: target antigen-bundle mode repeat type replace called 14
+[WRN][1497934816.8563079834] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8563079834] Updated meta: target antigen-bundle mode repeat type pre called 14
+[WRN][1497934816.8564291000] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8564291000] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8565011024] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8565011024] Pre hook: antigen-bundle-cached aphelionz/strerror.plugin.zsh
+[WRN][1497934816.8566079140] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8566079140] Replace hook: antigen-bundle-defer aphelionz/strerror.plugin.zsh
+[WRN][1497934816.8566980362] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8566980362] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8567690849] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8567690849] Replaced hooked function.
+[LOG][1497934816.8568370342] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8568370342] Return from hook antigen-bundle with 0
+[LOG][1497934816.8569419384] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8569419384] Return from hook antigen with 0
+[WRN][1497934816.8571689129] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8571689129] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8572349548] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8572349548] Processing hooks: antigen-lock
+[WRN][1497934816.8573980331] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8573980331] -antigen-hook-antigen bundle chrissicool/zsh-256color
+[WRN][1497934816.8575649261] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8575649261] Updated meta: target antigen-bundle mode repeat type replace called 15
+[WRN][1497934816.8576738834] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8576738834] Updated meta: target antigen-bundle mode repeat type pre called 15
+[WRN][1497934816.8578999043] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8578999043] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8580079079] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8580079079] Pre hook: antigen-bundle-cached chrissicool/zsh-256color
+[WRN][1497934816.8582160473] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8582160473] Replace hook: antigen-bundle-defer chrissicool/zsh-256color
+[WRN][1497934816.8583099842] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8583099842] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8583788872] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8583788872] Replaced hooked function.
+[LOG][1497934816.8584449291] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8584449291] Return from hook antigen-bundle with 0
+[LOG][1497934816.8585469723] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8585469723] Return from hook antigen with 0
+[WRN][1497934816.8587889671] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8587889671] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8588569164] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8588569164] Processing hooks: antigen-lock
+[WRN][1497934816.8590130806] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8590130806] -antigen-hook-antigen bundle unixorn/tumult.plugin.zsh
+[WRN][1497934816.8591790199] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8591790199] Updated meta: target antigen-bundle mode repeat type replace called 16
+[WRN][1497934816.8592889309] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8592889309] Updated meta: target antigen-bundle mode repeat type pre called 16
+[WRN][1497934816.8594050407] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8594050407] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8594698906] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8594698906] Pre hook: antigen-bundle-cached unixorn/tumult.plugin.zsh
+[WRN][1497934816.8595728874] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8595728874] Replace hook: antigen-bundle-defer unixorn/tumult.plugin.zsh
+[WRN][1497934816.8596620560] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8596620560] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8597280979] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8597280979] Replaced hooked function.
+[LOG][1497934816.8597919941] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8597919941] Return from hook antigen-bundle with 0
+[LOG][1497934816.8598909378] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8598909378] Return from hook antigen with 0
+[WRN][1497934816.8601169586] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8601169586] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8601830006] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8601830006] Processing hooks: antigen-lock
+[WRN][1497934816.8603401184] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8603401184] -antigen-hook-antigen bundle peterhurford/up.zsh
+[WRN][1497934816.8605029583] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8605029583] Updated meta: target antigen-bundle mode repeat type replace called 17
+[WRN][1497934816.8606119156] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8606119156] Updated meta: target antigen-bundle mode repeat type pre called 17
+[WRN][1497934816.8607499599] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8607499599] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8608179092] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8608179092] Pre hook: antigen-bundle-cached peterhurford/up.zsh
+[WRN][1497934816.8609330654] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8609330654] Replace hook: antigen-bundle-defer peterhurford/up.zsh
+[WRN][1497934816.8610188961] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8610188961] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8610839844] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8610839844] Replaced hooked function.
+[LOG][1497934816.8611481190] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8611481190] Return from hook antigen-bundle with 0
+[LOG][1497934816.8612489700] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8612489700] Return from hook antigen with 0
+[WRN][1497934816.8614940643] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8614940643] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8615610600] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8615610600] Processing hooks: antigen-lock
+[WRN][1497934816.8617749214] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8617749214] -antigen-hook-antigen bundle caarlos0/zsh-open-pr
+[WRN][1497934816.8619699478] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8619699478] Updated meta: target antigen-bundle mode repeat type replace called 18
+[WRN][1497934816.8620879650] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8620879650] Updated meta: target antigen-bundle mode repeat type pre called 18
+[WRN][1497934816.8622748852] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8622748852] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8623700142] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8623700142] Pre hook: antigen-bundle-cached caarlos0/zsh-open-pr
+[WRN][1497934816.8625700474] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8625700474] Replace hook: antigen-bundle-defer caarlos0/zsh-open-pr
+[WRN][1497934816.8626649380] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8626649380] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8628489971] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8628489971] Replaced hooked function.
+[LOG][1497934816.8629169464] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8629169464] Return from hook antigen-bundle with 0
+[LOG][1497934816.8630690575] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8630690575] Return from hook antigen with 0
+[WRN][1497934816.8633298874] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8633298874] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8634040356] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8634040356] Processing hooks: antigen-lock
+[WRN][1497934816.8636369705] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8636369705] -antigen-hook-antigen bundle Tarrasch/zsh-functional
+[WRN][1497934816.8638770580] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8638770580] Updated meta: target antigen-bundle mode repeat type replace called 19
+[WRN][1497934816.8639988899] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8639988899] Updated meta: target antigen-bundle mode repeat type pre called 19
+[WRN][1497934816.8640799522] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8640799522] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1497934816.8641479015] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8641479015] Pre hook: antigen-bundle-cached Tarrasch/zsh-functional
+[WRN][1497934816.8642659187] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8642659187] Replace hook: antigen-bundle-defer Tarrasch/zsh-functional
+[WRN][1497934816.8643538952] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1503
+[WRN][1497934816.8643538952] antigen-bundle-defer shortcircuited
+[WRN][1497934816.8644220829] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8644220829] Replaced hooked function.
+[LOG][1497934816.8644869328] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8644869328] Return from hook antigen-bundle with 0
+[LOG][1497934816.8645889759] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8645889759] Return from hook antigen with 0
+[WRN][1497934816.8785910606] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.8785910606] Ignoring hook due to mode once: antigen-lock
+[WRN][1497934816.8787438869] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8787438869] Processing hooks: antigen-lock
+[WRN][1497934816.8790431023] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.8790431023] -antigen-hook-antigen apply
+[WRN][1497934816.8792960644] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8792960644] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1497934816.8794250488] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8794250488] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1497934816.8796780109] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8796780109] Updated meta: target antigen-apply mode once type replace called 1
+[WRN][1497934816.8798370361] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8798370361] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1497934816.8801319599] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8801319599] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1497934816.8803269863] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8803269863] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-parallel-execute antigen-apply-defer antigen-apply-cached
+[WRN][1497934816.8805739880] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8805739880] Pre hook: antigen-apply-parallel
+[WRN][1497934816.8808550835] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:53
+[WRN][1497934816.8808550835] Parallel pre-apply PARALLEL PRE-APPLY
+[WRN][1497934816.8812780380] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8812780380] Pre hook: antigen-apply-defer
+[WRN][1497934816.8813920021] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:10
+[WRN][1497934816.8813920021] Defer pre-apply DEFER PRE-APPLY
+[LOG][1497934816.8818109035] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8818109035] Processing deferred bundle: --loc=lib DEFER
+[WRN][1497934816.8819940090] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8819940090] Updated meta: target antigen-bundle mode repeat type pre called 20
+[WRN][1497934816.8822340965] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8822340965] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1497934816.8824379444] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8824379444] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8825318813] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8825318813] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1497934816.8829200268] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8829200268] Replace hook: antigen-bundle-parallel --loc=lib
+[TRA][1497934816.8831560612] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8831560612] antigen-bundle-parallel: --loc=lib PARALLEL
+[TRA][1497934816.8831560612] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8834660053] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8834660053] Replaced hooked function.
+[LOG][1497934816.8837029934] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8837029934] Return from hook antigen-bundle with 0
+[LOG][1497934816.8840050697] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8840050697] Processing deferred bundle: zdharma/fast-syntax-highlighting DEFER
+[WRN][1497934816.8842859268] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8842859268] Updated meta: target antigen-bundle mode repeat type pre called 21
+[WRN][1497934816.8844230175] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8844230175] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1497934816.8847060204] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8847060204] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8848469257] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8848469257] Pre hook: antigen-bundle-cached zdharma/fast-syntax-highlighting
+[WRN][1497934816.8849990368] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8849990368] Replace hook: antigen-bundle-parallel zdharma/fast-syntax-highlighting
+[TRA][1497934816.8850779533] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8850779533] antigen-bundle-parallel: zdharma/fast-syntax-highlighting PARALLEL
+[TRA][1497934816.8850779533] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8855469227] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8855469227] Replaced hooked function.
+[LOG][1497934816.8857660294] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8857660294] Return from hook antigen-bundle with 0
+[LOG][1497934816.8858671188] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8858671188] Processing deferred bundle: peterhurford/git-it-on.zsh DEFER
+[WRN][1497934816.8860249519] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8860249519] Updated meta: target antigen-bundle mode repeat type pre called 22
+[WRN][1497934816.8861379623] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8861379623] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1497934816.8863899708] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8863899708] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8865931034] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8865931034] Pre hook: antigen-bundle-cached peterhurford/git-it-on.zsh
+[WRN][1497934816.8867430687] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8867430687] Replace hook: antigen-bundle-parallel peterhurford/git-it-on.zsh
+[TRA][1497934816.8869359493] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8869359493] antigen-bundle-parallel: peterhurford/git-it-on.zsh PARALLEL
+[TRA][1497934816.8869359493] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8870968819] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8870968819] Replaced hooked function.
+[LOG][1497934816.8871829510] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8871829510] Return from hook antigen-bundle with 0
+[LOG][1497934816.8872909546] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8872909546] Processing deferred bundle: unixorn/git-extra-commands DEFER
+[WRN][1497934816.8874490261] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8874490261] Updated meta: target antigen-bundle mode repeat type pre called 23
+[WRN][1497934816.8875620365] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8875620365] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1497934816.8877370358] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8877370358] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8878200054] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8878200054] Pre hook: antigen-bundle-cached unixorn/git-extra-commands
+[WRN][1497934816.8879530430] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8879530430] Replace hook: antigen-bundle-parallel unixorn/git-extra-commands
+[TRA][1497934816.8880228996] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8880228996] antigen-bundle-parallel: unixorn/git-extra-commands PARALLEL
+[TRA][1497934816.8880228996] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8881359100] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8881359100] Replaced hooked function.
+[LOG][1497934816.8882169724] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8882169724] Return from hook antigen-bundle with 0
+[LOG][1497934816.8883090019] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8883090019] Processing deferred bundle: tysonwolker/iterm-tab-colors DEFER
+[WRN][1497934816.8884570599] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8884570599] Updated meta: target antigen-bundle mode repeat type pre called 24
+[WRN][1497934816.8885669708] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8885669708] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1497934816.8886880875] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8886880875] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8887898922] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8887898922] Pre hook: antigen-bundle-cached tysonwolker/iterm-tab-colors
+[WRN][1497934816.8889200687] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8889200687] Replace hook: antigen-bundle-parallel tysonwolker/iterm-tab-colors
+[TRA][1497934816.8889920712] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8889920712] antigen-bundle-parallel: tysonwolker/iterm-tab-colors PARALLEL
+[TRA][1497934816.8889920712] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8890810013] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8890810013] Replaced hooked function.
+[LOG][1497934816.8891479969] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8891479969] Return from hook antigen-bundle with 0
+[LOG][1497934816.8892509937] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8892509937] Processing deferred bundle: raymondjcox/hub-ci-zsh-plugin DEFER
+[WRN][1497934816.8894000053] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8894000053] Updated meta: target antigen-bundle mode repeat type pre called 25
+[WRN][1497934816.8895099163] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8895099163] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1497934816.8896210194] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8896210194] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8896970749] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8896970749] Pre hook: antigen-bundle-cached raymondjcox/hub-ci-zsh-plugin
+[WRN][1497934816.8898150921] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8898150921] Replace hook: antigen-bundle-parallel raymondjcox/hub-ci-zsh-plugin
+[TRA][1497934816.8898890018] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8898890018] antigen-bundle-parallel: raymondjcox/hub-ci-zsh-plugin PARALLEL
+[TRA][1497934816.8898890018] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8899800777] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8899800777] Replaced hooked function.
+[LOG][1497934816.8900499344] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8900499344] Return from hook antigen-bundle with 0
+[LOG][1497934816.8901460171] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8901460171] Processing deferred bundle: supercrabtree/k DEFER
+[WRN][1497934816.8902950287] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8902950287] Updated meta: target antigen-bundle mode repeat type pre called 26
+[WRN][1497934816.8904049397] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8904049397] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1497934816.8905699253] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8905699253] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8906409740] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8906409740] Pre hook: antigen-bundle-cached supercrabtree/k
+[WRN][1497934816.8907470703] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8907470703] Replace hook: antigen-bundle-parallel supercrabtree/k
+[TRA][1497934816.8908169270] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8908169270] antigen-bundle-parallel: supercrabtree/k PARALLEL
+[TRA][1497934816.8908169270] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8909039497] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8909039497] Replaced hooked function.
+[LOG][1497934816.8909699917] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8909699917] Return from hook antigen-bundle with 0
+[LOG][1497934816.8910601139] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8910601139] Processing deferred bundle: gko/listbox DEFER
+[WRN][1497934816.8912050724] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8912050724] Updated meta: target antigen-bundle mode repeat type pre called 27
+[WRN][1497934816.8913140297] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8913140297] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1497934816.8914339542] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8914339542] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8914999962] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8914999962] Pre hook: antigen-bundle-cached gko/listbox
+[WRN][1497934816.8916039467] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8916039467] Replace hook: antigen-bundle-parallel gko/listbox
+[TRA][1497934816.8916709423] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8916709423] antigen-bundle-parallel: gko/listbox PARALLEL
+[TRA][1497934816.8916709423] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8917570114] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8917570114] Replaced hooked function.
+[LOG][1497934816.8918220997] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8918220997] Return from hook antigen-bundle with 0
+[LOG][1497934816.8919110298] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8919110298] Processing deferred bundle: david-treblig/locate-sublime-projects-cli DEFER
+[WRN][1497934816.8920559883] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8920559883] Updated meta: target antigen-bundle mode repeat type pre called 28
+[WRN][1497934816.8921639919] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8921639919] Updated meta: target antigen-bundle mode repeat type replace called 9
+[WRN][1497934816.8922760487] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8922760487] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8923408985] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8923408985] Pre hook: antigen-bundle-cached david-treblig/locate-sublime-projects-cli
+[WRN][1497934816.8924460411] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8924460411] Replace hook: antigen-bundle-parallel david-treblig/locate-sublime-projects-cli
+[TRA][1497934816.8925139904] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8925139904] antigen-bundle-parallel: david-treblig/locate-sublime-projects-cli PARALLEL
+[TRA][1497934816.8925139904] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8927280903] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8927280903] Replaced hooked function.
+[LOG][1497934816.8928151131] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8928151131] Return from hook antigen-bundle with 0
+[LOG][1497934816.8929889202] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8929889202] Processing deferred bundle: molovo/lumberjack DEFER
+[WRN][1497934816.8931329250] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8931329250] Updated meta: target antigen-bundle mode repeat type pre called 29
+[WRN][1497934816.8932380676] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8932380676] Updated meta: target antigen-bundle mode repeat type replace called 10
+[WRN][1497934816.8933110237] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8933110237] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8933739662] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8933739662] Pre hook: antigen-bundle-cached molovo/lumberjack
+[WRN][1497934816.8934860229] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8934860229] Replace hook: antigen-bundle-parallel molovo/lumberjack
+[TRA][1497934816.8935520649] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8935520649] antigen-bundle-parallel: molovo/lumberjack PARALLEL
+[TRA][1497934816.8935520649] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8936350346] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8936350346] Replaced hooked function.
+[LOG][1497934816.8936979771] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8936979771] Return from hook antigen-bundle with 0
+[LOG][1497934816.8937990665] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8937990665] Processing deferred bundle: molovo/revolver DEFER
+[WRN][1497934816.8939430714] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8939430714] Updated meta: target antigen-bundle mode repeat type pre called 30
+[WRN][1497934816.8940498829] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8940498829] Updated meta: target antigen-bundle mode repeat type replace called 11
+[WRN][1497934816.8941969872] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8941969872] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8942871094] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8942871094] Pre hook: antigen-bundle-cached molovo/revolver
+[WRN][1497934816.8944048882] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8944048882] Replace hook: antigen-bundle-parallel molovo/revolver
+[TRA][1497934816.8944780827] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8944780827] antigen-bundle-parallel: molovo/revolver PARALLEL
+[TRA][1497934816.8944780827] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8945679665] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8945679665] Replaced hooked function.
+[LOG][1497934816.8946349621] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8946349621] Return from hook antigen-bundle with 0
+[LOG][1497934816.8947260380] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8947260380] Processing deferred bundle: zlsun/solarized-man DEFER
+[WRN][1497934816.8948750496] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8948750496] Updated meta: target antigen-bundle mode repeat type pre called 31
+[WRN][1497934816.8949849606] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8949849606] Updated meta: target antigen-bundle mode repeat type replace called 12
+[WRN][1497934816.8951148987] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8951148987] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8951900005] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8951900005] Pre hook: antigen-bundle-cached zlsun/solarized-man
+[WRN][1497934816.8953120708] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8953120708] Replace hook: antigen-bundle-parallel zlsun/solarized-man
+[TRA][1497934816.8953828812] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8953828812] antigen-bundle-parallel: zlsun/solarized-man PARALLEL
+[TRA][1497934816.8953828812] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8954999447] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8954999447] Replaced hooked function.
+[LOG][1497934816.8955979347] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8955979347] Return from hook antigen-bundle with 0
+[LOG][1497934816.8956959248] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8956959248] Processing deferred bundle: gko/ssh-connect DEFER
+[WRN][1497934816.8958489895] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8958489895] Updated meta: target antigen-bundle mode repeat type pre called 32
+[WRN][1497934816.8959629536] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8959629536] Updated meta: target antigen-bundle mode repeat type replace called 13
+[WRN][1497934816.8960430622] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8960430622] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8961129189] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8961129189] Pre hook: antigen-bundle-cached gko/ssh-connect
+[WRN][1497934816.8962230682] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8962230682] Replace hook: antigen-bundle-parallel gko/ssh-connect
+[TRA][1497934816.8962960243] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8962960243] antigen-bundle-parallel: gko/ssh-connect PARALLEL
+[TRA][1497934816.8962960243] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8963871002] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8963871002] Replaced hooked function.
+[LOG][1497934816.8964569569] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8964569569] Return from hook antigen-bundle with 0
+[LOG][1497934816.8965520859] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8965520859] Processing deferred bundle: aphelionz/strerror.plugin.zsh DEFER
+[WRN][1497934816.8967020512] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8967020512] Updated meta: target antigen-bundle mode repeat type pre called 33
+[WRN][1497934816.8968100548] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8968100548] Updated meta: target antigen-bundle mode repeat type replace called 14
+[WRN][1497934816.8969988823] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8969988823] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8970830441] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8970830441] Pre hook: antigen-bundle-cached aphelionz/strerror.plugin.zsh
+[WRN][1497934816.8972001076] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8972001076] Replace hook: antigen-bundle-parallel aphelionz/strerror.plugin.zsh
+[TRA][1497934816.8972721100] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8972721100] antigen-bundle-parallel: aphelionz/strerror.plugin.zsh PARALLEL
+[TRA][1497934816.8972721100] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8973639011] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8973639011] Replaced hooked function.
+[LOG][1497934816.8974308968] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8974308968] Return from hook antigen-bundle with 0
+[LOG][1497934816.8975241184] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8975241184] Processing deferred bundle: chrissicool/zsh-256color DEFER
+[WRN][1497934816.8976840973] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8976840973] Updated meta: target antigen-bundle mode repeat type pre called 34
+[WRN][1497934816.8977959156] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8977959156] Updated meta: target antigen-bundle mode repeat type replace called 15
+[WRN][1497934816.8979530334] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8979530334] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8980340958] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8980340958] Pre hook: antigen-bundle-cached chrissicool/zsh-256color
+[WRN][1497934816.8982050419] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.8982050419] Replace hook: antigen-bundle-parallel chrissicool/zsh-256color
+[TRA][1497934816.8982748985] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.8982748985] antigen-bundle-parallel: chrissicool/zsh-256color PARALLEL
+[TRA][1497934816.8982748985] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.8984460831] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.8984460831] Replaced hooked function.
+[LOG][1497934816.8985729218] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.8985729218] Return from hook antigen-bundle with 0
+[LOG][1497934816.8987839222] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.8987839222] Processing deferred bundle: unixorn/tumult.plugin.zsh DEFER
+[WRN][1497934816.8990149498] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8990149498] Updated meta: target antigen-bundle mode repeat type pre called 35
+[WRN][1497934816.8993790150] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.8993790150] Updated meta: target antigen-bundle mode repeat type replace called 16
+[WRN][1497934816.8995039463] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.8995039463] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.8997750282] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.8997750282] Pre hook: antigen-bundle-cached unixorn/tumult.plugin.zsh
+[WRN][1497934816.9000260830] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9000260830] Replace hook: antigen-bundle-parallel unixorn/tumult.plugin.zsh
+[TRA][1497934816.9001491070] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.9001491070] antigen-bundle-parallel: unixorn/tumult.plugin.zsh PARALLEL
+[TRA][1497934816.9001491070] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9003510475] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9003510475] Replaced hooked function.
+[LOG][1497934816.9004371166] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9004371166] Return from hook antigen-bundle with 0
+[LOG][1497934816.9005410671] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.9005410671] Processing deferred bundle: peterhurford/up.zsh DEFER
+[WRN][1497934816.9007179737] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9007179737] Updated meta: target antigen-bundle mode repeat type pre called 36
+[WRN][1497934816.9008500576] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9008500576] Updated meta: target antigen-bundle mode repeat type replace called 17
+[WRN][1497934816.9010379314] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9010379314] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.9012479782] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9012479782] Pre hook: antigen-bundle-cached peterhurford/up.zsh
+[WRN][1497934816.9013640881] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9013640881] Replace hook: antigen-bundle-parallel peterhurford/up.zsh
+[TRA][1497934816.9014360905] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.9014360905] antigen-bundle-parallel: peterhurford/up.zsh PARALLEL
+[TRA][1497934816.9014360905] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9015359879] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9015359879] Replaced hooked function.
+[LOG][1497934816.9016029835] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9016029835] Return from hook antigen-bundle with 0
+[LOG][1497934816.9017860889] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.9017860889] Processing deferred bundle: caarlos0/zsh-open-pr DEFER
+[WRN][1497934816.9019579887] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9019579887] Updated meta: target antigen-bundle mode repeat type pre called 37
+[WRN][1497934816.9021270275] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9021270275] Updated meta: target antigen-bundle mode repeat type replace called 18
+[WRN][1497934816.9022080898] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9022080898] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.9022819996] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9022819996] Pre hook: antigen-bundle-cached caarlos0/zsh-open-pr
+[WRN][1497934816.9024169445] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9024169445] Replace hook: antigen-bundle-parallel caarlos0/zsh-open-pr
+[TRA][1497934816.9024860859] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.9024860859] antigen-bundle-parallel: caarlos0/zsh-open-pr PARALLEL
+[TRA][1497934816.9024860859] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9025750160] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9025750160] Replaced hooked function.
+[LOG][1497934816.9026420116] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9026420116] Return from hook antigen-bundle with 0
+[LOG][1497934816.9027330875] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:16
+[LOG][1497934816.9027330875] Processing deferred bundle: Tarrasch/zsh-functional DEFER
+[WRN][1497934816.9028789997] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9028789997] Updated meta: target antigen-bundle mode repeat type pre called 38
+[WRN][1497934816.9029870033] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9029870033] Updated meta: target antigen-bundle mode repeat type replace called 19
+[WRN][1497934816.9031438828] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9031438828] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1497934816.9032380581] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9032380581] Pre hook: antigen-bundle-cached Tarrasch/zsh-functional
+[WRN][1497934816.9033479691] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9033479691] Replace hook: antigen-bundle-parallel Tarrasch/zsh-functional
+[TRA][1497934816.9034290314] /Users/josephlasala/.zshrc:5
+[TRA][1497934816.9034290314] antigen-bundle-parallel: Tarrasch/zsh-functional PARALLEL
+[TRA][1497934816.9034290314] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9035201073] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9035201073] Replaced hooked function.
+[LOG][1497934816.9035859108] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9035859108] Return from hook antigen-bundle with 0
+[WRN][1497934816.9037098885] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9037098885] Replace hook: antigen-apply-parallel-execute
+[WRN][1497934816.9037768841] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:65
+[WRN][1497934816.9037768841] Parallel replace-apply PARALLEL REPLACE-APPLY
+[WRN][1497934816.9039390087] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:4
+[WRN][1497934816.9039390087] Parallel antigen-bundle-parallel-execute PARALLEL
+[WRN][1497934816.9040119648] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:8
+[WRN][1497934816.9040119648] Gonna install in parallel 19 bundles. PARALLEL
+[WRN][1497934816.9042510986] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:10
+[WRN][1497934816.9042510986] --loc=lib zdharma/fast-syntax-highlighting peterhurford/git-it-on.zsh unixorn/git-extra-commands tysonwolker/iterm-tab-colors raymondjcox/hub-ci-zsh-plugin supercrabtree/k gko/listbox david-treblig/locate-sublime-projects-cli molovo/lumberjack molovo/revolver zlsun/solarized-man gko/ssh-connect aphelionz/strerror.plugin.zsh chrissicool/zsh-256color unixorn/tumult.plugin.zsh peterhurford/up.zsh caarlos0/zsh-open-pr Tarrasch/zsh-functional PARALLEL
+[WRN][1497934816.9049379826] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9049379826] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1497934816.9053421021] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9053421021] Bundle zdharma/fast-syntax-highlighting already cloned locally. PARALLEL
+[WRN][1497934816.9057619572] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9057619572] Bundle peterhurford/git-it-on.zsh already cloned locally. PARALLEL
+[WRN][1497934816.9061338902] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9061338902] Bundle unixorn/git-extra-commands already cloned locally. PARALLEL
+[WRN][1497934816.9065060616] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9065060616] Bundle tysonwolker/iterm-tab-colors already cloned locally. PARALLEL
+[WRN][1497934816.9068770409] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9068770409] Bundle raymondjcox/hub-ci-zsh-plugin already cloned locally. PARALLEL
+[WRN][1497934816.9072558880] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9072558880] Bundle supercrabtree/k already cloned locally. PARALLEL
+[WRN][1497934816.9076139927] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9076139927] Bundle gko/listbox already cloned locally. PARALLEL
+[WRN][1497934816.9079930782] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9079930782] Bundle david-treblig/locate-sublime-projects-cli already cloned locally. PARALLEL
+[WRN][1497934816.9083559513] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9083559513] Bundle molovo/lumberjack already cloned locally. PARALLEL
+[WRN][1497934816.9087879658] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9087879658] Bundle molovo/revolver already cloned locally. PARALLEL
+[WRN][1497934816.9093849659] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9093849659] Bundle zlsun/solarized-man already cloned locally. PARALLEL
+[WRN][1497934816.9097669125] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9097669125] Bundle gko/ssh-connect already cloned locally. PARALLEL
+[WRN][1497934816.9103319645] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9103319645] Bundle aphelionz/strerror.plugin.zsh already cloned locally. PARALLEL
+[WRN][1497934816.9107229710] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9107229710] Bundle chrissicool/zsh-256color already cloned locally. PARALLEL
+[WRN][1497934816.9111049175] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9111049175] Bundle unixorn/tumult.plugin.zsh already cloned locally. PARALLEL
+[WRN][1497934816.9114730358] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9114730358] Bundle peterhurford/up.zsh already cloned locally. PARALLEL
+[WRN][1497934816.9118440151] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9118440151] Bundle caarlos0/zsh-open-pr already cloned locally. PARALLEL
+[WRN][1497934816.9122140408] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:24
+[WRN][1497934816.9122140408] Bundle Tarrasch/zsh-functional already cloned locally. PARALLEL
+[WRN][1497934816.9124410152] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9124410152] Updated meta: target antigen-bundle mode repeat type pre called 39
+[WRN][1497934816.9125280380] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9125280380] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9125990868] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9125990868] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1497934816.9127020836] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9127020836] -antigen-hook-antigen-bundle --loc=lib
+[TRA][1497934816.9127810001] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9127810001] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1497934816.9127810001] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9141190052] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9141190052] Updated meta: target -antigen-load-env mode repeat type replace called 1
+[WRN][1497934816.9142150879] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9142150879] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9144570827] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9144570827] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc lib name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1497934816.9146220684] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9146220684] Replaced hooked function.
+[LOG][1497934816.9147000313] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9147000313] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9149429798] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9149429798] Updated meta: target -antigen-load-source mode repeat type replace called 1
+[WRN][1497934816.9150450230] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9150450230] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9152181149] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9152181149] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh
+[WRN][1497934816.9153831005] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9153831005] Replaced hooked function.
+[LOG][1497934816.9155390263] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9155390263] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9156808853] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9156808853] Return from hook antigen-bundle with 0
+[WRN][1497934816.9160120487] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9160120487] Updated meta: target antigen-bundle mode repeat type pre called 40
+[WRN][1497934816.9161169529] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9161169529] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9162690639] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9162690639] Pre hook: antigen-bundle-cached zdharma/fast-syntax-highlighting
+[WRN][1497934816.9163830280] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9163830280] -antigen-hook-antigen-bundle zdharma/fast-syntax-highlighting
+[TRA][1497934816.9164550304] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9164550304] Called antigen-bundle with zdharma/fast-syntax-highlighting BUNDLE
+[TRA][1497934816.9164550304] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9173378944] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9173378944] Updated meta: target -antigen-load-env mode repeat type replace called 2
+[WRN][1497934816.9174289703] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9174289703] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9176599979] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9176599979] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/zdharma/fast-syntax-highlighting btype plugin url https://github.com/zdharma/fast-syntax-highlighting.git loc / name zdharma/fast-syntax-highlighting make_local_clone true
+[WRN][1497934816.9178390503] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9178390503] Replaced hooked function.
+[LOG][1497934816.9179270267] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9179270267] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9182050228] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9182050228] Updated meta: target -antigen-load-source mode repeat type replace called 2
+[WRN][1497934816.9182960987] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9182960987] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9184811115] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9184811115] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/zdharma/fast-syntax-highlighting///fast-syntax-highlighting.plugin.zsh
+[WRN][1497934816.9186010361] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9186010361] Replaced hooked function.
+[LOG][1497934816.9186770916] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9186770916] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9188060760] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9188060760] Return from hook antigen-bundle with 0
+[WRN][1497934816.9189810753] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9189810753] Updated meta: target antigen-bundle mode repeat type pre called 41
+[WRN][1497934816.9190599918] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9190599918] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9192070961] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9192070961] Pre hook: antigen-bundle-cached peterhurford/git-it-on.zsh
+[WRN][1497934816.9193179607] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9193179607] -antigen-hook-antigen-bundle peterhurford/git-it-on.zsh
+[TRA][1497934816.9193949699] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9193949699] Called antigen-bundle with peterhurford/git-it-on.zsh BUNDLE
+[TRA][1497934816.9193949699] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9202620983] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9202620983] Updated meta: target -antigen-load-env mode repeat type replace called 3
+[WRN][1497934816.9203500748] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9203500748] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9206008911] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9206008911] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/peterhurford/git-it-on.zsh btype plugin url https://github.com/peterhurford/git-it-on.zsh.git loc / name peterhurford/git-it-on.zsh make_local_clone true
+[WRN][1497934816.9207870960] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9207870960] Replaced hooked function.
+[LOG][1497934816.9208691120] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9208691120] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9210650921] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9210650921] Updated meta: target -antigen-load-source mode repeat type replace called 3
+[WRN][1497934816.9211521149] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9211521149] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9213109016] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9213109016] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/peterhurford/git-it-on.zsh///git-it-on.plugin.zsh
+[WRN][1497934816.9214229584] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9214229584] Replaced hooked function.
+[LOG][1497934816.9215009212] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9215009212] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9217650890] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9217650890] Return from hook antigen-bundle with 0
+[WRN][1497934816.9220099449] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9220099449] Updated meta: target antigen-bundle mode repeat type pre called 42
+[WRN][1497934816.9220950603] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9220950603] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9221620560] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9221620560] Pre hook: antigen-bundle-cached unixorn/git-extra-commands
+[WRN][1497934816.9222650528] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9222650528] -antigen-hook-antigen-bundle unixorn/git-extra-commands
+[TRA][1497934816.9223339558] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9223339558] Called antigen-bundle with unixorn/git-extra-commands BUNDLE
+[TRA][1497934816.9223339558] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9232499599] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9232499599] Updated meta: target -antigen-load-env mode repeat type replace called 4
+[WRN][1497934816.9233400822] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9233400822] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9235560894] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9235560894] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/unixorn/git-extra-commands btype plugin url https://github.com/unixorn/git-extra-commands.git loc / name unixorn/git-extra-commands make_local_clone true
+[WRN][1497934816.9236929417] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9236929417] Replaced hooked function.
+[LOG][1497934816.9238429070] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9238429070] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9240880013] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9240880013] Updated meta: target -antigen-load-source mode repeat type replace called 4
+[WRN][1497934816.9241940975] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9241940975] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9243528843] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9243528843] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/unixorn/git-extra-commands///git-extra-commands.plugin.zsh
+[WRN][1497934816.9244511127] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9244511127] Replaced hooked function.
+[LOG][1497934816.9246389866] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9246389866] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9248011112] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9248011112] Return from hook antigen-bundle with 0
+[WRN][1497934816.9249870777] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9249870777] Updated meta: target antigen-bundle mode repeat type pre called 43
+[WRN][1497934816.9250850677] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9250850677] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9251530170] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9251530170] Pre hook: antigen-bundle-cached tysonwolker/iterm-tab-colors
+[WRN][1497934816.9252550602] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9252550602] -antigen-hook-antigen-bundle tysonwolker/iterm-tab-colors
+[TRA][1497934816.9253249168] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9253249168] Called antigen-bundle with tysonwolker/iterm-tab-colors BUNDLE
+[TRA][1497934816.9253249168] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9261910915] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9261910915] Updated meta: target -antigen-load-env mode repeat type replace called 5
+[WRN][1497934816.9262740612] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9262740612] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9265019894] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9265019894] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/tysonwolker/iterm-tab-colors btype plugin url https://github.com/tysonwolker/iterm-tab-colors.git loc / name tysonwolker/iterm-tab-colors make_local_clone true
+[WRN][1497934816.9266650677] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9266650677] Replaced hooked function.
+[LOG][1497934816.9267559052] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9267559052] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9270300865] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9270300865] Updated meta: target -antigen-load-source mode repeat type replace called 5
+[WRN][1497934816.9271159172] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9271159172] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9273159504] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9273159504] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/tysonwolker/iterm-tab-colors///zsh-tab-colors.plugin.zsh
+[WRN][1497934816.9275319576] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9275319576] Replaced hooked function.
+[LOG][1497934816.9276518822] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9276518822] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9278709888] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9278709888] Return from hook antigen-bundle with 0
+[WRN][1497934816.9280490875] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9280490875] Updated meta: target antigen-bundle mode repeat type pre called 44
+[WRN][1497934816.9281349182] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9281349182] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9282069206] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9282069206] Pre hook: antigen-bundle-cached raymondjcox/hub-ci-zsh-plugin
+[WRN][1497934816.9283061028] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9283061028] -antigen-hook-antigen-bundle raymondjcox/hub-ci-zsh-plugin
+[TRA][1497934816.9283740520] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9283740520] Called antigen-bundle with raymondjcox/hub-ci-zsh-plugin BUNDLE
+[TRA][1497934816.9283740520] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9292500019] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9292500019] Updated meta: target -antigen-load-env mode repeat type replace called 6
+[WRN][1497934816.9293329716] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9293329716] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9295480251] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9295480251] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/raymondjcox/hub-ci-zsh-plugin btype plugin url https://github.com/raymondjcox/hub-ci-zsh-plugin.git loc / name raymondjcox/hub-ci-zsh-plugin make_local_clone true
+[WRN][1497934816.9297239780] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9297239780] Replaced hooked function.
+[LOG][1497934816.9298009872] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9298009872] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9299910069] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9299910069] Updated meta: target -antigen-load-source mode repeat type replace called 6
+[WRN][1497934816.9300749302] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9300749302] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9302439690] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9302439690] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/raymondjcox/hub-ci-zsh-plugin///hub-ci-status.plugin.zsh
+[WRN][1497934816.9303419590] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9303419590] Replaced hooked function.
+[LOG][1497934816.9304270744] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9304270744] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9305560589] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9305560589] Return from hook antigen-bundle with 0
+[WRN][1497934816.9307289124] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9307289124] Updated meta: target antigen-bundle mode repeat type pre called 45
+[WRN][1497934816.9308168888] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9308168888] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9309918880] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9309918880] Pre hook: antigen-bundle-cached supercrabtree/k
+[WRN][1497934816.9310920238] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9310920238] -antigen-hook-antigen-bundle supercrabtree/k
+[TRA][1497934816.9311609268] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9311609268] Called antigen-bundle with supercrabtree/k BUNDLE
+[TRA][1497934816.9311609268] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9319469929] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9319469929] Updated meta: target -antigen-load-env mode repeat type replace called 7
+[WRN][1497934816.9320340157] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9320340157] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9322021008] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9322021008] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/supercrabtree/k btype plugin url https://github.com/supercrabtree/k.git loc / name supercrabtree/k make_local_clone true
+[WRN][1497934816.9323499203] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9323499203] Replaced hooked function.
+[LOG][1497934816.9324200153] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9324200153] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9325919151] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9325919151] Updated meta: target -antigen-load-source mode repeat type replace called 7
+[WRN][1497934816.9326701164] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9326701164] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9328188896] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9328188896] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/supercrabtree/k///k.plugin.zsh
+[WRN][1497934816.9329090118] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9329090118] Replaced hooked function.
+[LOG][1497934816.9329760075] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9329760075] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9330968857] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9330968857] Return from hook antigen-bundle with 0
+[WRN][1497934816.9333760738] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9333760738] Updated meta: target antigen-bundle mode repeat type pre called 46
+[WRN][1497934816.9334900379] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9334900379] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9336619377] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9336619377] Pre hook: antigen-bundle-cached gko/listbox
+[WRN][1497934816.9337680340] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9337680340] -antigen-hook-antigen-bundle gko/listbox
+[TRA][1497934816.9338390827] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9338390827] Called antigen-bundle with gko/listbox BUNDLE
+[TRA][1497934816.9338390827] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9347290993] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9347290993] Updated meta: target -antigen-load-env mode repeat type replace called 8
+[WRN][1497934816.9348180294] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9348180294] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9349770546] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9349770546] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/gko/listbox btype plugin url https://github.com/gko/listbox.git loc / name gko/listbox make_local_clone true
+[WRN][1497934816.9351079464] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9351079464] Replaced hooked function.
+[LOG][1497934816.9351770878] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9351770878] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9353621006] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9353621006] Updated meta: target -antigen-load-source mode repeat type replace called 8
+[WRN][1497934816.9354410172] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9354410172] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9356019497] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9356019497] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/gko/listbox///listbox.sh
+[WRN][1497934816.9356939793] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9356939793] Replaced hooked function.
+[LOG][1497934816.9357600212] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9357600212] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9358789921] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9358789921] Return from hook antigen-bundle with 0
+[WRN][1497934816.9360449314] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9360449314] Updated meta: target antigen-bundle mode repeat type pre called 47
+[WRN][1497934816.9362270832] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9362270832] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9363000393] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9363000393] Pre hook: antigen-bundle-cached david-treblig/locate-sublime-projects-cli
+[WRN][1497934816.9363980293] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9363980293] -antigen-hook-antigen-bundle david-treblig/locate-sublime-projects-cli
+[TRA][1497934816.9364640713] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9364640713] Called antigen-bundle with david-treblig/locate-sublime-projects-cli BUNDLE
+[TRA][1497934816.9364640713] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9375090599] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9375090599] Updated meta: target -antigen-load-env mode repeat type replace called 9
+[WRN][1497934816.9375979900] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9375979900] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9378309250] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9378309250] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/david-treblig/locate-sublime-projects-cli btype plugin url https://github.com/david-treblig/locate-sublime-projects-cli.git loc / name david-treblig/locate-sublime-projects-cli make_local_clone true
+[WRN][1497934816.9379889965] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9379889965] Replaced hooked function.
+[LOG][1497934816.9380700588] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9380700588] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9382770061] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9382770061] Updated meta: target -antigen-load-source mode repeat type replace called 9
+[WRN][1497934816.9383640289] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9383640289] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9385359287] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9385359287] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/david-treblig/locate-sublime-projects-cli///sublime-completion.zsh
+[WRN][1497934816.9386351109] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9386351109] Replaced hooked function.
+[LOG][1497934816.9387059212] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9387059212] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9388329983] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9388329983] Return from hook antigen-bundle with 0
+[WRN][1497934816.9390439987] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9390439987] Updated meta: target antigen-bundle mode repeat type pre called 48
+[WRN][1497934816.9392170906] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9392170906] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9393420219] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9393420219] Pre hook: antigen-bundle-cached molovo/lumberjack
+[WRN][1497934816.9394540787] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9394540787] -antigen-hook-antigen-bundle molovo/lumberjack
+[TRA][1497934816.9395270348] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9395270348] Called antigen-bundle with molovo/lumberjack BUNDLE
+[TRA][1497934816.9395270348] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9404160976] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9404160976] Updated meta: target -antigen-load-env mode repeat type replace called 10
+[WRN][1497934816.9405028820] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9405028820] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9406759739] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9406759739] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/molovo/lumberjack btype plugin url https://github.com/molovo/lumberjack.git loc / name molovo/lumberjack make_local_clone true
+[WRN][1497934816.9408149719] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9408149719] Replaced hooked function.
+[LOG][1497934816.9408860207] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9408860207] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9410591125] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9410591125] Updated meta: target -antigen-load-source mode repeat type replace called 10
+[WRN][1497934816.9411370754] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9411370754] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9413270950] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9413270950] Replace hook: -antigen-load-source-cached
+[WRN][1497934816.9414529800] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9414529800] Replaced hooked function.
+[LOG][1497934816.9415268898] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9415268898] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9416589737] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9416589737] Return from hook antigen-bundle with 0
+[WRN][1497934816.9418299198] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9418299198] Updated meta: target antigen-bundle mode repeat type pre called 49
+[WRN][1497934816.9419069290] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9419069290] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9420559406] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9420559406] Pre hook: antigen-bundle-cached molovo/revolver
+[WRN][1497934816.9422509670] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9422509670] -antigen-hook-antigen-bundle molovo/revolver
+[TRA][1497934816.9423489571] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9423489571] Called antigen-bundle with molovo/revolver BUNDLE
+[TRA][1497934816.9423489571] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9435288906] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9435288906] Updated meta: target -antigen-load-env mode repeat type replace called 11
+[WRN][1497934816.9436230659] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9436230659] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9437921047] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9437921047] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/molovo/revolver btype plugin url https://github.com/molovo/revolver.git loc / name molovo/revolver make_local_clone true
+[WRN][1497934816.9439489841] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9439489841] Replaced hooked function.
+[LOG][1497934816.9440209866] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9440209866] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9442799091] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9442799091] Updated meta: target -antigen-load-source mode repeat type replace called 11
+[WRN][1497934816.9443600178] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9443600178] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9445269108] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9445269108] Replace hook: -antigen-load-source-cached
+[WRN][1497934816.9446299076] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9446299076] Replaced hooked function.
+[LOG][1497934816.9447031021] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9447031021] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9448781013] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9448781013] Return from hook antigen-bundle with 0
+[WRN][1497934816.9451200962] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9451200962] Updated meta: target antigen-bundle mode repeat type pre called 50
+[WRN][1497934816.9452099800] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9452099800] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9452838898] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9452838898] Pre hook: antigen-bundle-cached zlsun/solarized-man
+[WRN][1497934816.9453930855] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9453930855] -antigen-hook-antigen-bundle zlsun/solarized-man
+[TRA][1497934816.9454700947] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9454700947] Called antigen-bundle with zlsun/solarized-man BUNDLE
+[TRA][1497934816.9454700947] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9463529587] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9463529587] Updated meta: target -antigen-load-env mode repeat type replace called 12
+[WRN][1497934816.9464321136] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9464321136] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9465920925] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9465920925] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/zlsun/solarized-man btype plugin url https://github.com/zlsun/solarized-man.git loc / name zlsun/solarized-man make_local_clone true
+[WRN][1497934816.9467499256] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9467499256] Replaced hooked function.
+[LOG][1497934816.9468200207] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9468200207] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9470860958] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9470860958] Updated meta: target -antigen-load-source mode repeat type replace called 12
+[WRN][1497934816.9471719265] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9471719265] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9473280907] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9473280907] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/zlsun/solarized-man///solarized-man.plugin.zsh
+[WRN][1497934816.9474198818] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9474198818] Replaced hooked function.
+[LOG][1497934816.9474859238] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9474859238] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9476130009] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9476130009] Return from hook antigen-bundle with 0
+[WRN][1497934816.9477770329] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9477770329] Updated meta: target antigen-bundle mode repeat type pre called 51
+[WRN][1497934816.9478518963] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9478518963] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9479830265] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9479830265] Pre hook: antigen-bundle-cached gko/ssh-connect
+[WRN][1497934816.9480779171] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9480779171] -antigen-hook-antigen-bundle gko/ssh-connect
+[TRA][1497934816.9481430054] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9481430054] Called antigen-bundle with gko/ssh-connect BUNDLE
+[TRA][1497934816.9481430054] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9490571022] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9490571022] Updated meta: target -antigen-load-env mode repeat type replace called 13
+[WRN][1497934816.9491429329] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9491429329] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9493279457] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9493279457] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/gko/ssh-connect btype plugin url https://github.com/gko/ssh-connect.git loc / name gko/ssh-connect make_local_clone true
+[WRN][1497934816.9494690895] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9494690895] Replaced hooked function.
+[LOG][1497934816.9495389462] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9495389462] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9497900009] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9497900009] Updated meta: target -antigen-load-source mode repeat type replace called 13
+[WRN][1497934816.9498679638] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9498679638] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9500300884] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9500300884] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/gko/ssh-connect///ssh-connect.sh
+[WRN][1497934816.9501240253] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9501240253] Replaced hooked function.
+[LOG][1497934816.9501900673] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9501900673] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9503140450] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9503140450] Return from hook antigen-bundle with 0
+[WRN][1497934816.9504780769] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9504780769] Updated meta: target antigen-bundle mode repeat type pre called 52
+[WRN][1497934816.9505519867] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9505519867] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9507579803] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9507579803] Pre hook: antigen-bundle-cached aphelionz/strerror.plugin.zsh
+[WRN][1497934816.9509189129] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9509189129] -antigen-hook-antigen-bundle aphelionz/strerror.plugin.zsh
+[TRA][1497934816.9510729313] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9510729313] Called antigen-bundle with aphelionz/strerror.plugin.zsh BUNDLE
+[TRA][1497934816.9510729313] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9520199299] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9520199299] Updated meta: target -antigen-load-env mode repeat type replace called 14
+[WRN][1497934816.9521200657] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9521200657] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9522790909] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9522790909] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/aphelionz/strerror.plugin.zsh btype plugin url https://github.com/aphelionz/strerror.plugin.zsh.git loc / name aphelionz/strerror.plugin.zsh make_local_clone true
+[WRN][1497934816.9524149895] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9524149895] Replaced hooked function.
+[LOG][1497934816.9524850845] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9524850845] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9527690411] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9527690411] Updated meta: target -antigen-load-source mode repeat type replace called 14
+[WRN][1497934816.9528648853] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9528648853] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9530150890] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9530150890] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/aphelionz/strerror.plugin.zsh///strerror.plugin.zsh
+[WRN][1497934816.9531109333] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9531109333] Replaced hooked function.
+[LOG][1497934816.9531788826] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9531788826] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9533040524] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9533040524] Return from hook antigen-bundle with 0
+[WRN][1497934816.9534831047] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9534831047] Updated meta: target antigen-bundle mode repeat type pre called 53
+[WRN][1497934816.9535589218] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9535589218] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9536209106] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9536209106] Pre hook: antigen-bundle-cached chrissicool/zsh-256color
+[WRN][1497934816.9537169933] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9537169933] -antigen-hook-antigen-bundle chrissicool/zsh-256color
+[TRA][1497934816.9537820816] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9537820816] Called antigen-bundle with chrissicool/zsh-256color BUNDLE
+[TRA][1497934816.9537820816] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9548070431] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9548070431] Updated meta: target -antigen-load-env mode repeat type replace called 15
+[WRN][1497934816.9548940659] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9548940659] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9551229477] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9551229477] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/chrissicool/zsh-256color btype plugin url https://github.com/chrissicool/zsh-256color.git loc / name chrissicool/zsh-256color make_local_clone true
+[WRN][1497934816.9552829266] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9552829266] Replaced hooked function.
+[LOG][1497934816.9553580284] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9553580284] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9556241035] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9556241035] Updated meta: target -antigen-load-source mode repeat type replace called 15
+[WRN][1497934816.9557058811] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9557058811] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9559140205] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9559140205] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/chrissicool/zsh-256color///zsh-256color.plugin.zsh
+[WRN][1497934816.9560089111] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9560089111] Replaced hooked function.
+[LOG][1497934816.9561851025] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9561851025] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9563179016] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9563179016] Return from hook antigen-bundle with 0
+[WRN][1497934816.9565680027] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9565680027] Updated meta: target antigen-bundle mode repeat type pre called 54
+[WRN][1497934816.9566888809] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9566888809] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9568109512] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9568109512] Pre hook: antigen-bundle-cached unixorn/tumult.plugin.zsh
+[WRN][1497934816.9569199085] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9569199085] -antigen-hook-antigen-bundle unixorn/tumult.plugin.zsh
+[TRA][1497934816.9569900036] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9569900036] Called antigen-bundle with unixorn/tumult.plugin.zsh BUNDLE
+[TRA][1497934816.9569900036] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9578680992] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9578680992] Updated meta: target -antigen-load-env mode repeat type replace called 16
+[WRN][1497934816.9579560757] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9579560757] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9581201077] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9581201077] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/unixorn/tumult.plugin.zsh btype plugin url https://github.com/unixorn/tumult.plugin.zsh.git loc / name unixorn/tumult.plugin.zsh make_local_clone true
+[WRN][1497934816.9582560062] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9582560062] Replaced hooked function.
+[LOG][1497934816.9583261013] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9583261013] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9584989548] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9584989548] Updated meta: target -antigen-load-source mode repeat type replace called 16
+[WRN][1497934816.9585769176] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9585769176] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9587380886] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9587380886] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/unixorn/tumult.plugin.zsh///tumult.plugin.zsh
+[WRN][1497934816.9588449001] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9588449001] Replaced hooked function.
+[LOG][1497934816.9589180946] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9589180946] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9590508938] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9590508938] Return from hook antigen-bundle with 0
+[WRN][1497934816.9592199326] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9592199326] Updated meta: target antigen-bundle mode repeat type pre called 55
+[WRN][1497934816.9592959881] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9592959881] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9594419003] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9594419003] Pre hook: antigen-bundle-cached peterhurford/up.zsh
+[WRN][1497934816.9595420361] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9595420361] -antigen-hook-antigen-bundle peterhurford/up.zsh
+[TRA][1497934816.9596068859] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9596068859] Called antigen-bundle with peterhurford/up.zsh BUNDLE
+[TRA][1497934816.9596068859] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9605119228] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9605119228] Updated meta: target -antigen-load-env mode repeat type replace called 17
+[WRN][1497934816.9606020451] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9606020451] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9607670307] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9607670307] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/peterhurford/up.zsh btype plugin url https://github.com/peterhurford/up.zsh.git loc / name peterhurford/up.zsh make_local_clone true
+[WRN][1497934816.9609138966] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9609138966] Replaced hooked function.
+[LOG][1497934816.9609839916] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9609839916] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9611580372] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9611580372] Updated meta: target -antigen-load-source mode repeat type replace called 17
+[WRN][1497934816.9612369537] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9612369537] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9613909721] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9613909721] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/peterhurford/up.zsh///up.plugin.zsh
+[WRN][1497934816.9614830017] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9614830017] Replaced hooked function.
+[LOG][1497934816.9615499973] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9615499973] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9616770744] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9616770744] Return from hook antigen-bundle with 0
+[WRN][1497934816.9618411064] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9618411064] Updated meta: target antigen-bundle mode repeat type pre called 56
+[WRN][1497934816.9619150162] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9619150162] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9620530605] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9620530605] Pre hook: antigen-bundle-cached caarlos0/zsh-open-pr
+[WRN][1497934816.9621489048] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9621489048] -antigen-hook-antigen-bundle caarlos0/zsh-open-pr
+[TRA][1497934816.9622640610] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9622640610] Called antigen-bundle with caarlos0/zsh-open-pr BUNDLE
+[TRA][1497934816.9622640610] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9632720947] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9632720947] Updated meta: target -antigen-load-env mode repeat type replace called 18
+[WRN][1497934816.9633591175] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9633591175] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9635879993] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9635879993] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/caarlos0/zsh-open-pr btype plugin url https://github.com/caarlos0/zsh-open-pr.git loc / name caarlos0/zsh-open-pr make_local_clone true
+[WRN][1497934816.9637460709] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9637460709] Replaced hooked function.
+[LOG][1497934816.9638290405] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9638290405] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9640259743] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9640259743] Updated meta: target -antigen-load-source mode repeat type replace called 18
+[WRN][1497934816.9641170502] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9641170502] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9643459320] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9643459320] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/caarlos0/zsh-open-pr///git-open-pr.plugin.zsh
+[WRN][1497934816.9644720554] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9644720554] Replaced hooked function.
+[LOG][1497934816.9645969868] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9645969868] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9647319317] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9647319317] Return from hook antigen-bundle with 0
+[WRN][1497934816.9649019241] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9649019241] Updated meta: target antigen-bundle mode repeat type pre called 57
+[WRN][1497934816.9649789333] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9649789333] Processing hooks: antigen-bundle-cached
+[WRN][1497934816.9650421143] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1490
+[WRN][1497934816.9650421143] Pre hook: antigen-bundle-cached Tarrasch/zsh-functional
+[WRN][1497934816.9651379585] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9651379585] -antigen-hook-antigen-bundle Tarrasch/zsh-functional
+[TRA][1497934816.9652030468] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[TRA][1497934816.9652030468] Called antigen-bundle with Tarrasch/zsh-functional BUNDLE
+[TRA][1497934816.9652030468] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[WRN][1497934816.9660530090] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9660530090] Updated meta: target -antigen-load-env mode repeat type replace called 19
+[WRN][1497934816.9661469460] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9661469460] Processing hooks: -antigen-load-env-cached
+[WRN][1497934816.9663369656] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9663369656] Replace hook: -antigen-load-env-cached dir /Users/josephlasala/.antigen/bundles/Tarrasch/zsh-functional btype plugin url https://github.com/Tarrasch/zsh-functional.git loc / name Tarrasch/zsh-functional make_local_clone true
+[WRN][1497934816.9664719105] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9664719105] Replaced hooked function.
+[LOG][1497934816.9666259289] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9666259289] Return from hook -antigen-load-env with 0
+[WRN][1497934816.9668309689] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1472
+[WRN][1497934816.9668309689] Updated meta: target -antigen-load-source mode repeat type replace called 19
+[WRN][1497934816.9669160843] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9669160843] Processing hooks: -antigen-load-source-cached
+[WRN][1497934816.9670801163] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1501
+[WRN][1497934816.9670801163] Replace hook: -antigen-load-source-cached /Users/josephlasala/.antigen/bundles/Tarrasch/zsh-functional///functional.plugin.zsh
+[WRN][1497934816.9671800137] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934816.9671800137] Replaced hooked function.
+[LOG][1497934816.9672470093] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9672470093] Return from hook -antigen-load-source with 0
+[LOG][1497934816.9674339294] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934816.9674339294] Return from hook antigen-bundle with 0
+[WRN][1497934816.9675450325] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:48
+[WRN][1497934816.9675450325] Parallel install done PARALLEL
+[WRN][1497934816.9678499699] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.9678499699] Ignoring hook due to mode once: antigen-apply-lock
+[WRN][1497934816.9679360390] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.9679360390] Ignoring hook due to mode once: antigen-apply-parallel
+[WRN][1497934816.9682140350] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.9682140350] Ignoring hook due to mode once: antigen-apply-defer
+[WRN][1497934816.9683179855] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1465
+[WRN][1497934816.9683179855] Ignoring hook due to mode once: antigen-apply-cached
+[WRN][1497934816.9683990479] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1487
+[WRN][1497934816.9683990479] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-defer antigen-apply-cached
+[WRN][1497934816.9684801102] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1508
+[WRN][1497934816.9684801102] -antigen-hook-antigen-apply 
+[LOG][1497934816.9685640335] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:2
+[LOG][1497934816.9685640335] Called antigen-apply
+[TRA][1497934816.9686279297] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:3
+[TRA][1497934816.9686279297] Gonna create compdump file @ apply COMPDUMP
+[TRA][1497934816.9686279297] TRACE
+-antigen-hook-antigen-apply
+-antigen-hook-handler
+antigen-apply
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/josephlasala/.zshrc
+[LOG][1497934817.3878159523] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934817.3878159523] Return from hook antigen-apply with 0
+[WRN][1497934817.3882520199] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1512
+[WRN][1497934817.3882520199] Replaced hooked function.
+[WRN][1497934817.3883740902] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1516
+[WRN][1497934817.3883740902] Post hook: antigen-apply-lock
+[WRN][1497934817.3888161182] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:22
+[WRN][1497934817.3888161182] Freeing antigen-lock file at /Users/josephlasala/.antigen/.lock
+[WRN][1497934817.3937370777] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1516
+[WRN][1497934817.3937370777] Post hook: antigen-apply-cached
+[LOG][1497934817.3942649364] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1780
+[LOG][1497934817.3942649364] Gonna generate cache for /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/bzr.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/clipboard.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/compfix.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/completion.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/correction.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/diagnostics.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/directories.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/functions.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/git.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/grep.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/history.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/key-bindings.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/misc.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/nvm.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/prompt_info_functions.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/spectrum.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/termsupport.zsh /Users/josephlasala/.antigen/bundles/robbyrussell/oh-my-zsh/lib/theme-and-appearance.zsh /Users/josephlasala/.antigen/bundles/zdharma/fast-syntax-highlighting// /Users/josephlasala/.antigen/bundles/zdharma/fast-syntax-highlighting///fast-syntax-highlighting.plugin.zsh /Users/josephlasala/.antigen/bundles/peterhurford/git-it-on.zsh// /Users/josephlasala/.antigen/bundles/peterhurford/git-it-on.zsh///git-it-on.plugin.zsh /Users/josephlasala/.antigen/bundles/unixorn/git-extra-commands// /Users/josephlasala/.antigen/bundles/unixorn/git-extra-commands///git-extra-commands.plugin.zsh /Users/josephlasala/.antigen/bundles/tysonwolker/iterm-tab-colors// /Users/josephlasala/.antigen/bundles/tysonwolker/iterm-tab-colors///zsh-tab-colors.plugin.zsh /Users/josephlasala/.antigen/bundles/raymondjcox/hub-ci-zsh-plugin// /Users/josephlasala/.antigen/bundles/raymondjcox/hub-ci-zsh-plugin///hub-ci-status.plugin.zsh /Users/josephlasala/.antigen/bundles/supercrabtree/k// /Users/josephlasala/.antigen/bundles/supercrabtree/k///k.plugin.zsh /Users/josephlasala/.antigen/bundles/gko/listbox// /Users/josephlasala/.antigen/bundles/gko/listbox///listbox.sh /Users/josephlasala/.antigen/bundles/david-treblig/locate-sublime-projects-cli// /Users/josephlasala/.antigen/bundles/david-treblig/locate-sublime-projects-cli///sublime-completion.zsh /Users/josephlasala/.antigen/bundles/molovo/lumberjack// /Users/josephlasala/.antigen/bundles/molovo/revolver// /Users/josephlasala/.antigen/bundles/zlsun/solarized-man// /Users/josephlasala/.antigen/bundles/zlsun/solarized-man///solarized-man.plugin.zsh /Users/josephlasala/.antigen/bundles/gko/ssh-connect// /Users/josephlasala/.antigen/bundles/gko/ssh-connect///ssh-connect.sh /Users/josephlasala/.antigen/bundles/aphelionz/strerror.plugin.zsh// /Users/josephlasala/.antigen/bundles/aphelionz/strerror.plugin.zsh///strerror.plugin.zsh /Users/josephlasala/.antigen/bundles/chrissicool/zsh-256color// /Users/josephlasala/.antigen/bundles/chrissicool/zsh-256color///zsh-256color.plugin.zsh /Users/josephlasala/.antigen/bundles/unixorn/tumult.plugin.zsh// /Users/josephlasala/.antigen/bundles/unixorn/tumult.plugin.zsh///tumult.plugin.zsh /Users/josephlasala/.antigen/bundles/peterhurford/up.zsh// /Users/josephlasala/.antigen/bundles/peterhurford/up.zsh///up.plugin.zsh /Users/josephlasala/.antigen/bundles/caarlos0/zsh-open-pr// /Users/josephlasala/.antigen/bundles/caarlos0/zsh-open-pr///git-open-pr.plugin.zsh /Users/josephlasala/.antigen/bundles/Tarrasch/zsh-functional// /Users/josephlasala/.antigen/bundles/Tarrasch/zsh-functional///functional.plugin.zsh
+[LOG][1497934817.8296990395] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934817.8296990395] Return from hook antigen-apply with 0
+[LOG][1497934817.8298799992] /Users/josephlasala/.dotfiles/antigen/antigen/bin/antigen.zsh:1521
+[LOG][1497934817.8298799992] Return from hook antigen with 0
