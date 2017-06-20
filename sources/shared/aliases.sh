@@ -14,6 +14,11 @@ alias killinvisibles='find . -name "._*" -exec rm "{}" \;'
 alias lsinvisibles='find . -name "._*"'
 alias pwn='sudo chown -R joe:joe . && sudo chmod -R 744 .'
 alias flatten="find . -mindepth 2 -type f -exec mv -iv '{}' . ';' && rmdirs"
+alias top='htop'
+alias weather='curl wttr.in/Austin'
+alias dotfiles='~/.dotfiles/install'
+alias branches='git branch -vvvv'
+alias bs='branches'
 
 # media management
 alias bitrate='mp3info -r a -p "%f %r\n"'
@@ -38,7 +43,6 @@ hash -d tv_oddities='/mnt/pool/data/public/Television [Oddities]'
 # misc
 alias wakedisplay='xrandr -d :0 --auto'
 alias version='cat /etc/*-release'
-alias rc='source ~/.zshrc'
 
 # scripts
 alias lsd='~/scripts/dirty.sh'

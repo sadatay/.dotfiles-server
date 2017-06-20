@@ -19,10 +19,10 @@
     ~/.gitconfig: git/.gitconfig
     ~/.task: task/.task
     ~/.taskrc: task/.taskrc
-    ~/.vim_runtime: vim/.vim_runtime
-    ~/.vimrc: vim/.vimrc
+    ~/.vim_runtime: vim
     ~/.zshrc: zsh/.zshrc
 - shell:
   # - [git submodule update --init --recursive, Installing submodules]
+  - [sh ~/.vim_runtime/install_awesome_vimrc.sh, Installing vimrc]
   - [source ~/.bashrc, Sourcing Bash]
   - [source ~/.zshrc && antigen reset && source ~/.zshrc, Sourcing Zsh and Antigen]
