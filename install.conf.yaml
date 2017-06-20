@@ -1,0 +1,25 @@
+- defaults:
+    link:
+      relink: true
+- clean: ['~']
+- link:
+    ~/.sources:
+      create: true
+      path: sources
+    ~/.themes:
+      create: true
+      path: themes
+    ~/.antigen: antigen/.antigen
+    ~/antigen.zsh: antigen/antigen/antigen.zsh
+    ~/.bashrc: bash/.bashrc
+    ~/.bro: bro/.bro
+    ~/.gitconfig: git/.gitconfig
+    ~/.task: task/.task
+    ~/.taskrc: task/.taskrc
+    ~/.vim_runtime: vim/.vim_runtime
+    ~/.vimrc: vim/.vimrc
+    ~/.zshrc: zsh/.zshrc
+- shell:
+  # - [git submodule update --init --recursive, Installing submodules]
+  - [source ~/.bashrc, Sourcing Bash]
+  - [source ~/.zshrc && antigen reset && source ~/.zshrc, Sourcing Zsh and Antigen]

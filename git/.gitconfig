@@ -1,0 +1,5 @@
+[user]
+	name = Joe LaSala
+	email = joe@frontside.io
+[core]
+	editor = /usr/bin/vim
