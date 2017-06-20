@@ -66,8 +66,8 @@ function diff_info() {
 
 PROMPT='
 ${LAMBDA}\
- %{$fg_no_bold[red]%}‹ %{$fg[yellow]%}josephlasala@macbook %{$fg[red]%}›\
- %{$fg_no_bold[red]%}[%{$reset_color%} %3~ %{$fg[red]%}]\
+ %{$fg_no_bold[blue]%}‹ %{$fg[yellow]%}nas %{$fg[blue]%}›\
+ %{$fg_no_bold[blue]%}[%{$reset_color%} %3~ %{$fg[blue]%}]\
  $(check_git_prompt_info)\
 %{$reset_color%}'
 

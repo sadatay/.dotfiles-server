@@ -9,6 +9,9 @@
     ~/.themes:
       create: true
       path: themes
+    ~/scripts:
+      create: true
+      path: scripts
     ~/.antigen: antigen/.antigen
     ~/antigen.zsh: antigen/antigen/antigen.zsh
     ~/.bashrc: bash/.bashrc
