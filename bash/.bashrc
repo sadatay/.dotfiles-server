@@ -24,3 +24,5 @@ parse_git_branch() {
 
 PS1="\[\e[00;31m\]\u@nas:[\[\e[0m\]\[\e[00;34m\]\W\[\e[0m\]\[\e[00;31m\]]\[\e[0m\]\[\e[00;33m\]\$(parse_git_branch)\[\e[0m\]\[\e[00;31m\] -> \[\e[0m\]"
 
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash

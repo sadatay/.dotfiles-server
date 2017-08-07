@@ -14,8 +14,9 @@ DEFAULT=$(bash_escape 39);
 
 SUCCESS="${GREEN}${DIM}[SUCCESS]${RESET}";
 FAILURE="${RED}${DIM}[FAILURE]${RESET}";
-FAILULRE_MARK="[ ${RED}✘${DEFAULT} ]";
+FAILURE_MARK="[ ${RED}✘${DEFAULT} ]";
 SUCCESS_MARK="[ ${GREEN}✔${DEFAULT} ]";
+NOOP_MARK="[ ${BLUE}○${DEFAULT} ]";
 
 # Logging methods
 put_command() ( echo; printf "${BOLD}${GREEN}[COMMAND]${DEFAULT} *** $1 ***\n";);

@@ -32,3 +32,5 @@ source ~/.themes/joe.zsh-theme
 # duplicates of a line previously found, even if the duplicates are not
 # contiguous.
 setopt hist_find_no_dups
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
